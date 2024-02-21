@@ -1,0 +1,5 @@
+name: 'My Drupal module'
+type: module
+description: 'My module and my learning of Drupal.'
+core_version_requirement: ^10
+package: 'My module dev course.'

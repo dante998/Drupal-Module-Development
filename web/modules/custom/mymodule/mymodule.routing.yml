@@ -1,0 +1,16 @@
+mymodule.simplecontent:
+  path: '/mycustompath'
+  defaults:
+    _controller: '\Drupal\mymodule\Controller\MyController::simpleContent'
+    _title: 'My Drupal training route'
+  requirements:
+    _permission: 'access content'
+
+mymodule.variablecontent:
+  path: '/mycustompath/{name_1}/{name_2}'
+  defaults:
+    _controller: '\Drupal\mymodule\Controller\MyController::variableContent'
+    _title: 'Dynamic Greeting'
+  requirements:
+    _permission: 'access content'
+    
