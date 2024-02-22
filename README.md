@@ -14,4 +14,5 @@ I would like to present to you my knowledge and skills related to Drupal. Skills
 * Implementing hooks
 * Routing and Controllers
 * Menu API and Menu Items
-* 
+
+### Happy learning!
