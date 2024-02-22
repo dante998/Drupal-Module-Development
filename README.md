@@ -1,8 +1,8 @@
 # Drupal-Module-Development
-I would like to present to you my knowledge and skills related to Drupal. Skills that were forged with hard work.
+I would like to introduce to you my knowledge and skills related to Drupal. Skills forged through hard work and persistence.
+This repository is focused on Drupal 10 backend development.
 
-## Here you can find conceptions you already know like:
-
+## Here you can find key concepts you already know like
 * Introduction to Drupal Development Fundamentals
 * The Drupal Framework
 * Object Oriented Programming and Drupal
@@ -15,4 +15,8 @@ I would like to present to you my knowledge and skills related to Drupal. Skills
 * Routing and Controllers
 * Menu API and Menu Items
 
-    ### Happy learning!
+## Examples
+* RSVP List Module
+
+### Happy coding!
+  
